@@ -1,9 +1,0 @@
-{
-  "name": "fontend-nav",
-  "version": "1.0",
-  "description": "前端导航",
-  "chrome_url_overrides" : {
-    "newtab": "index.html"
-  },
-  "manifest_version": 2
-}
